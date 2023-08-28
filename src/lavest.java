@@ -1,5 +1,5 @@
 
-//Analysere denne: Tellende operasjoner. Her prøver vi å finne ut av hva som tar tid i en analyse
+//Analysere denne: Tellende operasjoner. Her prøver vi å finne ut av hva som tar tid i en analyseeeeeee
 public class lavest {
     public static void main(String[] args) {
         int [] tall = {3,5,1,-5,-5,19}; // Dette er en operasjon. "=" er en assignment. denne kopiseres til "Høyest"
