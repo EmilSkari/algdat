@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26819989-a445-483f-86bc-89a2d0cf3c81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algdat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Biler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppg1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/finnMaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/finne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kjorbil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lavest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longfak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nesthøyest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppg5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trhow.java" afterDir="false" />
-    </list>
+    <list default="true" id="26819989-a445-483f-86bc-89a2d0cf3c81" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,17 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="hoyestVerdi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hoyestVerdi" />
@@ -118,8 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1692693302081</updated>
       <workItem from="1692693304106" duration="29446000" />
-      <workItem from="1693036183082" duration="13955000" />
+      <workItem from="1693036183082" duration="14311000" />
     </task>
+    <task id="LOCAL−00001" summary="test">
+      <created>1693215596120</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1693215596120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,12 +121,21 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/hoyestVerdi.java</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/finnMaks.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
